@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+**Hello there! Welcome to Joshua Born's official site!**
 
-You can use the [editor on GitHub](https://github.com/Joshua-born/Joshuaborn-s-Github-Pages-Site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**About Joshua Born:**
+Hello there! I am a 3ds modder and creator of "Gitshop" and "JBKart7." I am working on these 2 softwares and they will be downloadable once they are complete. I like creating 3ds mods. I also play Roblox and my account is "JoshuaB0RN."
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**About JBKart7:**
+JBKart7 is a Mario Kart 7 ROM hack that will bring new UIs, characters and karts, even custom tracks and custom music! You need Homebrew on your 3ds console and the JBKart7 CIA. It will be available in the future and a download for the ROM hack will be added here once it is finished.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Joshua-born/Joshuaborn-s-Github-Pages-Site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**About Gitshop:**
+Gitshop is an open source freeShop clone that will not need title keys. It will download them itself and will be set up as soon as you download the CIA onto your 3ds. It will be available once it is complete!
